@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ne0fitDEV
+- 👋 Hi, I’m @asadbekDEV
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
